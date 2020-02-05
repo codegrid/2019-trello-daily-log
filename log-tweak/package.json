@@ -1,0 +1,22 @@
+{
+  "name": "trello-log-tweak",
+  "version": "0.0.0",
+  "description": "Trello log tweaker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegrid/2019-trello-daily-log.git"
+  },
+  "author": "Takazudo",
+  "license": "public",
+  "bugs": {
+    "url": "https://github.com/codegrid/2019-trello-daily-log/issues"
+  },
+  "homepage": "https://github.com/codegrid/2019-trello-daily-log#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
